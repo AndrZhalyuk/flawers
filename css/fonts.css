@@ -1,0 +1,32 @@
+
+@font-face {
+	
+	font-family: 'AlteHaasGroteskBold';
+	src: url('../fonts/AlteHaasGroteskBold/AlteHaasGroteskBold.eot');
+	src: local('☺'), url('../fonts/AlteHaasGroteskBold/AlteHaasGroteskBold.woff') format('woff'), 
+	url('../fonts/AlteHaasGroteskBold.ttf') format('truetype'), url('fonts/AlteHaasGroteskBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'UniversLTLight';
+	src: url('../fonts/UniversLTLight/UniversLTLight.eot');
+	src: local('☺'), url('../fonts/UniversLTLight/UniversLTLight.woff') format('woff'),
+	 url('../fonts/UniversLTLight/UniversLTLight.ttf') format('truetype'), url('../fonts/UniversLTLight/UniversLTLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'LavanderiaRegular';
+	src: url('../fonts/LavanderiaRegular/LavanderiaRegular.eot');
+	src: local('☺'), url('../fonts/LavanderiaRegular/LavanderiaRegular.woff') format('woff'),
+	 url('../fonts/UniversLTLight/UniversLTLight.ttf') format('truetype'), url('../fonts/LavanderiaRegular/LavanderiaRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
